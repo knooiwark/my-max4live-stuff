@@ -1,2 +1,2 @@
 # myMax4LiveStuff
-Hahaha I love spagetti code :)
+Just the stuff I'm making on my journey to learn max msp
